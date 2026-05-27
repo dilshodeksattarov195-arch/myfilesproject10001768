@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspave",
+        "uuid": 4138888,
+        "checksum": "i671s"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
